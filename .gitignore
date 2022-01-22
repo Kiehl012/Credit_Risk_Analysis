@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Ignore data File
-/Users/Justin1/Desktop/Analysis_Projects/Module_17_Supervised_ML/Credit_Risk_Analysis/Module-17-Challenge-Resources
+/Users/Justin1/Desktop/Analysis_Projects/Module_17_Supervised_ML/Credit_Risk_Analysis/Module-17-Challenge-Resources/LoanStats_2019Q1.csv
 
 # C extensions
 *.so
